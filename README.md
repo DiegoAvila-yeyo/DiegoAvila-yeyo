@@ -2,7 +2,7 @@
 
 # Hola, soy Yeyo 👋
 
-<img src="https://tenor.com/bJXNC.gif" alt="Typing SVG" />
+<img src="<div class="tenor-gif-embed" data-postid="23308618" data-share-method="host" data-aspect-ratio="1.95122" data-width="100%"><a href="https://tenor.com/view/one-piece-wano-cherry-blossoms-gif-23308618">One Piece Wano GIF</a>from <a href="https://tenor.com/search/one+piece-gifs">One Piece GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" alt="Typing SVG" />
 
 </div>
 
