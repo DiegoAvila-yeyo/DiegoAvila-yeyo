@@ -1,30 +1,7 @@
 <div align="center">
-
-# Hola, soy Yeyo 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Fullstack+Developer;MERN+%7C+SQL+%7C+Python;Siempre+aprendiendo+y+construyendo" alt="Typing SVG" />
-
-</div>
-
----
-
-## Sobre mí
-
-- Fullstack Developer enfocado en aplicaciones web funcionales y escalables.
-- Actualmente trabajando con **MERN**, **SQL** y **Python**.
-- Construyendo proyectos, aprendiendo rápido y mejorando cada día.
-
----
-
-## One Piece Zone
-
 <div align="center">
   <img src="APYW.gif">
 </div>
-
----
-
-## GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoAvila-yeyo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
