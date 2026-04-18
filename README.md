@@ -1,16 +1,54 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DiegoAvila-yeyo/DiegoAvila-yeyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Yeyo 👋
 
-Here are some ideas to get you started:
+<img src="https://tenor.com/bJXNC.gif" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## Sobre mí
+
+- Fullstack Developer enfocado en aplicaciones web funcionales y escalables.
+- Actualmente trabajando con **MERN**, **SQL** y **Python**.
+- Construyendo proyectos, aprendiendo rápido y mejorando cada día.
+
+---
+
+## One Piece Zone
+
+<div align="center">
+  <img src="GIF_ONE_PIECE_URL" width="320" alt="One Piece GIF" />
+</div>
+
+> Reemplaza `GIF_ONE_PIECE_URL` por el link directo de tu GIF favorito de One Piece.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoAvila-yeyo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=DiegoAvila-yeyo&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiegoAvila-yeyo&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## Tecnologías
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,mongodb,mysql,git,github,vscode" />
+</div>
+
+---
+
+## Snake de contribuciones
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DiegoAvila-yeyo/DiegoAvila-yeyo/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
