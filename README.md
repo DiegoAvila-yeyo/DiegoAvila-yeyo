@@ -14,16 +14,8 @@
 
 ---
 
-## Tecnologías
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,mongodb,mysql,git,github,vscode" />
 </div>
 
 ---
-
-## Snake de contribuciones
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/DiegoAvila-yeyo/DiegoAvila-yeyo/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
