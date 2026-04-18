@@ -19,7 +19,7 @@
 ## One Piece Zone
 
 <div align="center">
-  <img src=".github/workflows/Xl3c.gif" async src="https://tenor.com/embed.js"></script>" width="320" alt="One Piece GIF" />
+  <img src=".github/workflows/Xl3c.gif" async src="https://tenor.com/embed.js">
 </div>
 
 ---
