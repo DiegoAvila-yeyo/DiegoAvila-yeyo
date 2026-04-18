@@ -2,7 +2,7 @@
 
 # Hola, soy Yeyo 👋
 
-<img src="<div class="tenor-gif-embed" data-postid="23308618" data-share-method="host" data-aspect-ratio="1.95122" data-width="100%"><a href="https://tenor.com/view/one-piece-wano-cherry-blossoms-gif-23308618">One Piece Wano GIF</a>from <a href="https://tenor.com/search/one+piece-gifs">One Piece GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Fullstack+Developer;MERN+%7C+SQL+%7C+Python;Siempre+aprendiendo+y+construyendo" alt="Typing SVG" />
 
 </div>
 
@@ -19,7 +19,7 @@
 ## One Piece Zone
 
 <div align="center">
-  <img src="GIF_ONE_PIECE_URL" width="320" alt="One Piece GIF" />
+  <img src="[GIF_ONE_PIECE_URL](https://tenor.com/bJXNC.gif)" width="320" alt="One Piece GIF" />
 </div>
 
 > Reemplaza `GIF_ONE_PIECE_URL` por el link directo de tu GIF favorito de One Piece.
