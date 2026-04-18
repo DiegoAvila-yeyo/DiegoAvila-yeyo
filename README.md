@@ -1,6 +1,6 @@
 <div align="center">
 <div align="center">
-  <img src="APYW.gif">
+  <img src="79td.gif">
 </div>
 
 <div align="center">
